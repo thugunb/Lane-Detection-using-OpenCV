@@ -1,0 +1,1 @@
+Lib file isn't getting uploaded completely due to its size. I'm assuming that dependencies like cv2 and pip are present on the user's device. If not then kindly install the required dependencies
